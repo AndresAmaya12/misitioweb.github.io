@@ -1,0 +1,12 @@
+	* {
+	     background-color: #e6c6b3;
+		 background-image: url(../planteamiento_del_problema/Fondo.jpg);
+    	 background-repeat: no-repeat;
+    	 background-position: center center;
+    	 background-attachment: fixed;
+   		 background-size: cover;
+} 
+p{
+	font-size: 40px;
+	color:#e8e3e3 ;
+}

@@ -1,0 +1,69 @@
+	·   * {
+	     background-color: navajowhite;      
+}         
+    body {
+    
+    background-image: url(./images/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 500px; 
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+    h1{
+        text-align: center;
+        color:#e8e3e3 ;
+    }
+
+    h2 {
+	text-align: center;
+    color:#e8e3e3 ;
+}
+
+    tr{
+        border: 3px solid;
+        color:black
+    }   
+ 
+ul {
+    margin-left: 370px;
+    list-style-type: none;
+    width: 500px;
+    text-align: justify;
+    
+}
+
+li a {
+  display: block;
+  color:#F2F603  ;
+  padding: 8px 18px;
+  text-decoration: none;
+  border: 3px solid #e8e3e3 ;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;
+
+  
+}
+
+li a:hover {
+  background-color: #e58a4d;
+  color: #e8e3e3;
+  
+}
+
+.img_1{
+    width: 100px;
+    padding: 50px;
+    margin-left: 550px;
+    text-align: center;
+}
+
+.img_2{
+    width: 100px;
+    padding: 50px;
+    margin-left: 550px;
+    text-align: center;
+}
